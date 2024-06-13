@@ -9,7 +9,7 @@ while (true)
     var title = Console.ReadLine();
     var validChannel = new List<string> { "BE", "FE", "QA", "Urgent" };
     var tags = Regex.Matches(title, @"\[([^]]+)\]").Select(x => x.Groups[1].Value).ToList();
-    var channels = new List<string?>();
+    var channels = new List<string>();
     foreach (var tag in tags)
     {
         if (validChannel.Contains(tag))

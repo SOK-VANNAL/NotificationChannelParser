@@ -12,3 +12,4 @@ D:\Project\NotificationChannelParser\NotificationChannelParser\obj\Debug\net8.0\
 D:\Project\NotificationChannelParser\NotificationChannelParser\obj\Debug\net8.0\NotificationChannelParser.pdb
 D:\Project\NotificationChannelParser\NotificationChannelParser\obj\Debug\net8.0\NotificationChannelParser.genruntimeconfig.cache
 D:\Project\NotificationChannelParser\NotificationChannelParser\obj\Debug\net8.0\ref\NotificationChannelParser.dll
+D:\Project\NotificationChannelParser\NotificationChannelParser\obj\Debug\net8.0\NotificationChannelParser.sourcelink.json
