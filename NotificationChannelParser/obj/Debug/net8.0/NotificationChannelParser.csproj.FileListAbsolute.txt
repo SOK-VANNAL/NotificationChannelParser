@@ -1,0 +1,14 @@
+D:\Project\NotificationChannelParser\NotificationChannelParser\bin\Debug\net8.0\NotificationChannelParser.exe
+D:\Project\NotificationChannelParser\NotificationChannelParser\bin\Debug\net8.0\NotificationChannelParser.deps.json
+D:\Project\NotificationChannelParser\NotificationChannelParser\bin\Debug\net8.0\NotificationChannelParser.runtimeconfig.json
+D:\Project\NotificationChannelParser\NotificationChannelParser\bin\Debug\net8.0\NotificationChannelParser.dll
+D:\Project\NotificationChannelParser\NotificationChannelParser\bin\Debug\net8.0\NotificationChannelParser.pdb
+D:\Project\NotificationChannelParser\NotificationChannelParser\obj\Debug\net8.0\NotificationChannelParser.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\NotificationChannelParser\NotificationChannelParser\obj\Debug\net8.0\NotificationChannelParser.AssemblyInfoInputs.cache
+D:\Project\NotificationChannelParser\NotificationChannelParser\obj\Debug\net8.0\NotificationChannelParser.AssemblyInfo.cs
+D:\Project\NotificationChannelParser\NotificationChannelParser\obj\Debug\net8.0\NotificationChannelParser.csproj.CoreCompileInputs.cache
+D:\Project\NotificationChannelParser\NotificationChannelParser\obj\Debug\net8.0\NotificationChannelParser.dll
+D:\Project\NotificationChannelParser\NotificationChannelParser\obj\Debug\net8.0\refint\NotificationChannelParser.dll
+D:\Project\NotificationChannelParser\NotificationChannelParser\obj\Debug\net8.0\NotificationChannelParser.pdb
+D:\Project\NotificationChannelParser\NotificationChannelParser\obj\Debug\net8.0\NotificationChannelParser.genruntimeconfig.cache
+D:\Project\NotificationChannelParser\NotificationChannelParser\obj\Debug\net8.0\ref\NotificationChannelParser.dll
